@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 1- Enabled Internet Information Service (IIS)
 - Item 2- Installed C++ Redistributal.86
 - Item 3- Installed MySQL Server
-- Item 4
+- Item 4 -Installed osTicket & enabled extensions
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -49,3 +49,5 @@ Installed C++ Redistributal.86
 Istalled mysql server
 </p>
 <br />
+
+<img src="ttps://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
