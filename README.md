@@ -50,4 +50,7 @@ Istalled mysql server
 </p>
 <br />
 
-<img src="ttps://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/22BEaBv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installed osTicket & enabled extensions
