@@ -38,7 +38,7 @@ Enabled Internet Information Service (IIS)
 <img src="https://i.imgur.com/Eg3dr80.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Installed C++ Redistributal.86
 </p>
 <br />
 
